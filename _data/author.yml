@@ -11,13 +11,7 @@ description: "
 "
 email: ifyoucomeback@kakao.com
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/in/srsmaurya
   - title: github
-    url: https://github.com/sharadcodes
-  - title: twitter
-    url: https://twitter.com/sharadcodes
-  - title: dev
-    url: https://dev.to/sharadcodes
+    url: https://github.com/yj76461
   - title: email
-    url: mailto:dev_sharad@outlook.com
+    url: mailto:ifyoucomeback@kakao.com
