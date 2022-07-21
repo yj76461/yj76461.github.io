@@ -1,11 +1,11 @@
-title: Uploading Fucking Code..
+title: Uploading Fucking Code...
 markdown: kramdown
 url: ""
 baseurl: ""
 
 # for atom feed
-author:
-  name: yj's blog
+author: 
+  name: YJ
   email: ifyoucomeback@kakao.com
 
 plugins:
