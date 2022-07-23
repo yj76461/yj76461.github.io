@@ -1,8 +1,14 @@
 title: Uploading Fucking Code...
 markdown: kramdown
-url: ""
+url: "https://yj76461.github.io"
 baseurl: ""
 
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "UA-235338320-1"
+    anonymize_ip         : # true, false (default)
 # for atom feed
 author: 
   name: YJ
@@ -27,4 +33,3 @@ defaults:
       permalink: /posts/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
 
-google_analytics: 'UA-235338320-1'
