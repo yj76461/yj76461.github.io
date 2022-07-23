@@ -26,3 +26,5 @@ defaults:
       layout: "post"
       permalink: /posts/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+
+google_analytics: 'UA-235338320-1'
